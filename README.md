@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hdumb
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in programming & coding & nothing & allthings about programming
+- 🌱 I’m currently learning reactive programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me @DontReachMe 
 
 <!---
 hdumb/hdumb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
